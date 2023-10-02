@@ -16,9 +16,4 @@ model = keras.models.load_model('model5.h5')
 
 model.evaluate(X_test, y_test)
 
-#model1 = accuracy: 0.6905 e=5
-#model2 = accuracy : 0.7672 e=2 
-#model3 = accuracy: 0.6926 e=2 
-#model3 = accuracy: 0.7500 e=5 
-#model4 = accuracy: 0.7482 e=3 
-#model5 = accuracy: 0.8949
+
